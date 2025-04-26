@@ -1,24 +1,4 @@
 # Helm
-# 🛣️ Roadmap for Mastering Helm in Kubernetes
-
-1. **What is Helm really? Why does it exist?**
-2. **Core Concepts**
-   - Charts
-   - Templates
-   - Values
-   - Releases
-3. **Helm Architecture**
-4. **How Helm Talks to Kubernetes**
-5. **Hands-on: Creating, Installing, Upgrading, and Rolling Back with Helm**
-6. **Deep Dive: Templates, Sprig Functions, and Helm Hooks**
-7. **Best Practices: Directory Structure, Versioning, Secrets Management**
-8. **Advanced: Helmfile, Helm Secrets, CI/CD with Helm**
-9. **Helm v2 vs v3: (Why Tiller was removed)**
-10. **Real-world Problems Helm Solves (and Doesn't)**
-11. **Security & Limitations**
-12. **When NOT to use Helm**
-
----
 
 # 1. 🧠 What is Helm?
 
