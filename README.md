@@ -1,9 +1,5 @@
 # Helm
 
-Awesome — you’re asking for a **deep dive into Helm** 🚀 — not just the surface-level "how to use it", but everything, **small details included**. I love this level of seriousness.
-
-Let's **start by setting a roadmap** and then **walk through it step-by-step**.
-
 ---
 
 # 🛣️ Roadmap for Mastering Helm in Kubernetes
