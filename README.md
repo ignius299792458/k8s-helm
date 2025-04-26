@@ -1,7 +1,4 @@
 # Helm
-
----
-
 # 🛣️ Roadmap for Mastering Helm in Kubernetes
 
 1. **What is Helm really? Why does it exist?**
